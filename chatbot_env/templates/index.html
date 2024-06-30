@@ -1,0 +1,154 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>EnviroInvest</title>
+    <link rel="stylesheet" type="text/css" href="{{ url_for('static', filename='style.css') }}">
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            background-color: #f4f4f9;
+            margin: 0;
+            padding: 0;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+
+        .container {
+            background: #fff;
+            padding: 30px;
+            box-shadow: 0 4px 8px rgba(0,0,0,0.1);
+            border-radius: 8px;
+            text-align: center;
+            width: 100%;
+            max-width: 600px;
+        }
+
+        h1 {
+            color: #4CAF50;
+            margin-bottom: 10px;
+        }
+
+        p.subtitle {
+            color: #666;
+            margin-bottom: 30px;
+        }
+
+        form {
+            display: flex;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        input[type="text"] {
+            width: 70%;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-right: 10px;
+        }
+
+        button {
+            padding: 10px 20px;
+            background-color: #4CAF50;
+            color: #fff;
+            border: none;
+            border-radius: 4px;
+            cursor: pointer;
+            transition: background-color 0.3s;
+        }
+
+        button:hover {
+            background-color: #45a049;
+        }
+
+        #response {
+            text-align: left;
+        }
+
+        .response-item {
+            background: #f9f9f9;
+            padding: 10px;
+            border: 1px solid #ddd;
+            border-radius: 4px;
+            margin-bottom: 10px;
+        }
+
+        .response-item p {
+            margin: 0 0 5px;
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <h1>EnviroInvest</h1>
+        <p class="subtitle">Your personal ethical financial advisor</p>
+        <p class="subtitle">Enter the name of a company you are interested in investing in to recieve their environmental transparency score 1-100</p>
+        <form id="chat-form">
+            <select id="company-input">
+                <option value="Apple">Apple</option>
+                <option value="AMD">AMD</option>   
+                <option value="Amazon">Amazon</option>
+                <option value="Adobe">Adobe</option>
+                <option value="Dell">Dell</option>
+                <option value="Facebook">Facebook</option>
+                <option value="Google">Google</option>
+                <option value="HP">HP</option>
+                <option value="Huawei">Huawei</option>
+                <option value="IBM">IBM</option>
+                <option value="Intel">Intel</option>
+                <option value="Lenovo">Lenovo</option>
+                <option value="Microsoft">Microsoft</option>
+                <option value="Nvidia">Nvidia</option>
+                <option value="Oracle">Oracle</option>
+                <option value="Qualcomm">Qualcomm</option>
+                <option value="SAP">SAP</option>
+                <option value="Samsung">Samsung</option>
+                <option value="Salesforce">Salesforce</option>
+                <option value="Sony">Sony</option>
+                <option value="TSMC">TSMC</option>
+                <option value="Western Digital">Western Digital</option>
+                <option value="Micron">Micron</option>
+                <option value="Tesla">Tesla</option>                
+                <!-- Add more options as needed -->
+            </select>
+            <button type="submit">Get Score</button>
+        </form>
+        <div id="response-id"></div>
+    </div>
+
+    <script>
+        document.getElementById('chat-form').addEventListener('submit', function(event) {
+            event.preventDefault();
+            let companyName = document.getElementById('company-input').value;
+            fetch('/get_score', {
+                method: 'POST',
+                headers: {
+                    'Content-Type': 'application/json'
+                },
+                body: JSON.stringify({ company: companyName })
+            })
+            .then(response => response.json())
+            .then(data => {
+                let responseHTML = `
+                    <div class="response-item">
+                        <p><strong>Company:</strong> ${data.company}</p>
+                        <p><strong>Score:</strong> ${data.score}</p>
+                        <p><strong>Alternative Investments:</strong> ${data.alternatives}</p>
+                    </div>
+                `;
+                document.getElementById('response-id').innerHTML = responseHTML;
+            })
+            .catch(error => {
+                console.error('Error:', error);
+                document.getElementById('response-id').innerHTML = `
+                    <p class="error">An error occurred while fetching the data.</p>
+                `;
+            });
+        });
+    </script>
+</body>
+</html>
