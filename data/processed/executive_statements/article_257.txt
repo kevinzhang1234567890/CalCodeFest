@@ -1,0 +1,6 @@
+Title: Amazon WorkSpaces Thin Client Review – Secure, Cost-Efficient Thin Client
+Description: The Amazon WorkSpaces Thin Client helps reduce virtual desktop costs, strengthens security, and offers a painless deployment process.
+
+<!--more-->In November last year, Amazon caught us and the world off guard when they announced their thin client. This thin …
+Content: The Amazon WorkSpaces Thin Client helps reduce virtual desktop costs, strengthens security, and offers a painless deployment process.
+In November last year, Amazon caught us and the world off guard … [+10883 chars]

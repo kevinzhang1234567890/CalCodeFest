@@ -1,0 +1,3 @@
+Title: Testing Amazon Cognito backed APIs using Amazon CloudWatch Synthetics
+Description: Customers who develop APIs can control access to them using Amazon Cognito user pools as an authorizer. Testing these APIs should take into account the additional security controls in place to effectively validate that the APIs are working, and Amazon CloudWa…
+Content: Customers who develop APIs can control access to them using Amazon Cognito user pools as an authorizer. Testing these APIs should take into account the additional security controls in place to effect… [+23704 chars]

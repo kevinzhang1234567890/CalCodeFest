@@ -1,0 +1,4 @@
+Title: Nvidia’s New AI Simulator Could Rev Up Robotics, Self-Driving Cars
+Description: Chip maker Nvidia announced on Monday (June 17) a new type of artificial intelligence (AI) simulation software in an attempt to turbocharge the development of self-driving cars and robots. The Omniverse Cloud Sensor RTX was unveiled at the Computer Vision and…
+Content: Chip maker Nvidia announced on Monday (June 17) a new type of artificial intelligence (AI) simulation software in an attempt to turbocharge the development of self-driving cars and robots.
+The Omniv… [+3925 chars]

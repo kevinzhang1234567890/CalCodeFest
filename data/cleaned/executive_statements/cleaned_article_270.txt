@@ -1,0 +1,4 @@
+Title: Swift Navigation Runs Its ISO 26262 Certified Skylark Precise Positioning Service on AWS
+Description: Skylark is the first cloud-based real-time service of any kind to be certified compliant with ISO 26262......
+Content: SAN FRANCISCO, June 04, 2024 (GLOBE NEWSWIRE) -- Swift Navigation
+, a leader in precise positioning technologies for automotive, IoT, and mobile applications, today announced its use of Amazon Web S… [+2875 chars]

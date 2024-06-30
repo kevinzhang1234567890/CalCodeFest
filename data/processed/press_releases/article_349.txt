@@ -1,0 +1,3 @@
+Title: Splunk Adds Data Management and AI Tools to Observability Portfolio
+Description: Recent adoption shows that AI tools enable more applications at scale. However, the application environment is going to be that much more complex as the number of dependencies between applications and services increases.
+Content: Splunk, a Cisco company, this week at its .conf24 conference announced today added a suite of data management tools that make it easier to share and process data between Splunk Cloud Platform and Spl… [+3503 chars]

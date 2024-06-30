@@ -1,0 +1,5 @@
+Title: Red Hat Security Advisory 2024-3810-03
+Description: Red Hat Security Advisory 2024-3810-03 - An update for kernel is now available for Red Hat Enterprise Linux 8.8 Extended Update Support. Issues addressed include null pointer and use-after-free vulnerabilities.
+Content: The following advisory data is extracted from:
+https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_3810.json
+Red Hat officially shut down their mailing list notifications Octo… [+3691 chars]

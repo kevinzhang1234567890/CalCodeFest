@@ -1,0 +1,5 @@
+Title: Zero Trust For SaaS Security: How To Get Started
+Description: In order for a zero-trust framework to be effective, organizations, first and foremost, must be aware of all of the applications that exist in their SaaS environment.
+Content: Ofer Klein is CEO and co-founder of Reco, creators of an identity-centric SaaS security platform.
+getty
+The average enterprise has a staggering 2,200 (or more) misconfiguration incidents a month in… [+4796 chars]

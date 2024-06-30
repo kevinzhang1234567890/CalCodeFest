@@ -1,0 +1,3 @@
+Title: Splunk report finds downtime still costs big money
+Description: Unplanned downtime — whether it involves minor service interruptions or major system outages — extends far beyond technical glitches. Downtime affects the foundation of business operations and profitability, resulting in long-term consequences. Splunk Inc. an…
+Content: Unplanned downtime  whether it involves minor service interruptions or major system outages extends far beyond technical glitches. Downtime affects the foundation of business operations and profitabi… [+8837 chars]

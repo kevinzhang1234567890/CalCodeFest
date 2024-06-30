@@ -1,0 +1,5 @@
+Title: Russia-linked APT Nobelium targets French diplomatic entities
+Description: French information security agency ANSSI reported that Russia-linked threat actor Nobelium is behind a series of cyber attacks that targeted French diplomatic entities. The French information security agency ANSSI reported that Russia-linked APT Nobelium targ…
+Content: Russia-linked APT Nobelium targets French diplomatic entities
+ | US bans sale of Kaspersky products due to risks to national security
+ | Atlassian fixed six high-severity bugs in Confluence Data Ce… [+78138 chars]

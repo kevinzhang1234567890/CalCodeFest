@@ -1,0 +1,6 @@
+Title: Experts observed approximately 120 malicious campaigns using the Rafel RAT
+Description: Multiple threat actors are using an open-source Android remote administration tool called Rafel RAT to target Android Devices. Check Point Research identified multiple threat actors using Rafel, an open-source remote administration tool (RAT). The researchers…
+Content: Experts observed approximately 120 malicious campaigns using the Rafel RAT
+ | LockBit claims the hack of the US Federal Reserve
+ | 
+Ransomware threat landscape Jan-Apr 2024: insights and challenge… [+78930 chars]

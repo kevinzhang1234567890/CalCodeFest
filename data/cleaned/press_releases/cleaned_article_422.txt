@@ -1,0 +1,3 @@
+Title: Snapdragon X Elite in the wild is allegedly slower than iPhone 12 — first benchmarks of Samsung Book4 Edge disappoint
+Description: A Reddit user who got his hands on the newest Samsung Copilot+ PC early posted benchmarks, and the results are incredibly disappointing. The CPU clock speeds on the unit are locked to 2.5 GHz, much slower than the advertised 4.0 GHz boost.
+Content: The Snapdragon X Elite is just starting to emerge in the wild, powering Microsoft's Copilot+ PCs, and early reviews are not promising for the future of Windows. Reddit user r/caponica23 shared his re… [+3166 chars]

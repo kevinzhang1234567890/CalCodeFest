@@ -1,0 +1,3 @@
+Title: What we've learned from a year of building with LLMs
+Description: From the tactical nuts & bolts to the operational day-to-day to the long-term business strategy.
+Content: Its an exciting time to build with large language models (LLMs). Over the past year, LLMs have become good enough for real-world applications. The pace of improvements in LLMs, coupled with a parade … [+76421 chars]

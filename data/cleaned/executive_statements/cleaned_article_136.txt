@@ -1,0 +1,3 @@
+Title: VMblog Expert Interview: Scale Computing's Edge Computing and HCI Solutions: Simplicity, Innovation and Customer Focus
+Description: Scale Computing's Chief Executive Officer, Board Member, and Co-founder, Jeff Ready, recently sat down with VMblog to discuss the company's unique approach and differentiation in the edge computing and HCI market.
+Content: In the ever-evolving landscape of edge computing and hyperconverged infrastructure (HCI), Scale Computing stands out as a pioneering force dedicated to simplifying IT infrastructure. Founded 16 years… [+19513 chars]

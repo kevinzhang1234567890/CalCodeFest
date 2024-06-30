@@ -1,0 +1,6 @@
+Title: Experts released PoC exploit code for a critical bug in Progress Telerik Report Servers
+Description: Researchers published a PoC exploit code for an authentication bypass vulnerability on Progress Telerik Report Servers. Researchers published a proof-of-concept (PoC) exploit code for an authentication bypass vulnerability on Progress Telerik Report Servers. …
+Content: Experts released PoC exploit code for a critical bug in Progress Telerik Report Servers
+ | Multiple flaws in Cox modems could have impacted millions of devices
+ | 
+CISA adds Oracle WebLogic Server… [+73854 chars]

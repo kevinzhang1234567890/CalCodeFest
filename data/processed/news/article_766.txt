@@ -1,0 +1,6 @@
+Title: DarkGate switches up its tactics with new payload, email templates
+Description: This post was authored by Kalpesh Mantri. 
+
+ * Cisco Talos is actively tracking a recent increase in activity from malicious email campaigns containing a suspicious Microsoft Excel attachment that, when opened, infected the victim's system with the DarkGate m…
+Content: This post was authored by Kalpesh Mantri. 
+<ul><li>Cisco Talos is actively tracking a recent increase in activity from malicious email campaigns containing a suspicious Microsoft Excel attachment th… [+10765 chars]

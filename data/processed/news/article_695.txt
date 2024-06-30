@@ -1,0 +1,4 @@
+Title: Why Databricks’ Tabular Play Has Put Snowflake On The Defensive
+Description: Databricks’ acquisition of Tabular puts new pressure on competitors such as Snowflake and Confluent as cloud data management rises in importance for AI initiatives.
+Content: Databricks acquisition of Tabular puts new pressure on competitors such as Snowflake and Confluent as cloud data management rises in importance as a technology necessary for AI initiatives.
+Last wee… [+7414 chars]

@@ -1,0 +1,4 @@
+Title: Integrate Tableau and Okta with Amazon Redshift using AWS IAM Identity Center
+Description: This blog post is co-written with Sid Wray and Jake Koskela from Salesforce, and Adiascar Cisneros from Tableau.  Amazon Redshift is a fast, scalable cloud data warehouse built to serve workloads at any scale. With Amazon Redshift as your data warehouse, you …
+Content: This blog post is co-written with Sid Wray and Jake Koskela from Salesforce, and Adiascar Cisneros from Tableau. 
+Amazon Redshift is a fast, scalable cloud data warehouse built to serve workloads at… [+26104 chars]

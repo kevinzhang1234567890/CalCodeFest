@@ -1,0 +1,3 @@
+Title: Establishing a data perimeter on AWS: Analyze your account activity to evaluate impact and refine controls
+Description: A data perimeter on Amazon Web Services (AWS) is a set of preventive controls you can use to help establish a boundary around your data in AWS Organizations. This boundary helps ensure that your data can be accessed only by trusted identities from within netw…
+Content: A data perimeter on Amazon Web Services (AWS) is a set of preventive controls you can use to help establish a boundary around your data in AWS Organizations. This boundary helps ensure that your data… [+30845 chars]

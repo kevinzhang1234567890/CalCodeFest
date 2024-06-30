@@ -1,0 +1,6 @@
+Title: Data Compression Explained (2011)
+Description: Comments
+Content: Matt Mahoney
+Copyright (C) 2010-2012, Dell, Inc.
+You are permitted to copy and distribute material from this book provided (1) any
+material you distribute includes this license, (2) the material i… [+287086 chars]

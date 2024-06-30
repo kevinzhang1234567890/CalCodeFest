@@ -1,0 +1,4 @@
+Title: 6 findings from IoT Signals report: Manufacturers prepare their shop floor for AI
+Description: Read on to discover the six key lessons learned from manufacturers rethinking their operations for AI and how Microsoft is supporting the factory of the future with Azure's adaptive cloud approach.
+The post 6 findings from IoT Signals report: Manufacturers pr…
+Content: Manufacturers are embracing AI to deliver a new level of automation, optimization, and innovation. To unlock the full potential of AI on the shop floor, organizations are testing and investigating te… [+9768 chars]

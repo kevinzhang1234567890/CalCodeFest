@@ -1,0 +1,4 @@
+Title: CCW-YOLOv5: A forward-looking sonar target method based on coordinate convolution and modified boundary frame loss
+Description: Multi beam forward looking sonar plays an important role in underwater detection. However, due to the complex underwater environment, unclear features, and susceptibility to noise interference, most forward looking sonar systems have poor recognition performa…
+Content: Abstract
+Multi beam forward looking sonar plays an important role in underwater detection. However, due to the complex underwater environment, unclear features, and susceptibility to noise interfere… [+41097 chars]

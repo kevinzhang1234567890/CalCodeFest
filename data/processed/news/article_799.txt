@@ -1,0 +1,7 @@
+Title: Multiple flaws in Fortinet FortiOS fixed
+Description: Fortinet released security updates to address multiple vulnerabilities in FortiOS, including a high-severity code execution security issue. Fortinet addressed multiple vulnerabilities in FortiOS and other products, including some code execution flaws. The com…
+Content: Multiple flaws in Fortinet FortiOS fixed
+ | 
+CISA adds Arm Mali GPU Kernel Driver, PHP bugs to its Known Exploited Vulnerabilities catalog
+ | 
+Ukraine Police arrested a hacker who developed a cry… [+76138 chars]

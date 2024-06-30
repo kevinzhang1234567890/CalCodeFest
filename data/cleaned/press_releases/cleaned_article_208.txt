@@ -1,0 +1,5 @@
+Title: Threat actors are actively exploiting SolarWinds Serv-U bug CVE-2024-28995
+Description: Threat actors are actively exploiting a recently discovered vulnerability in SolarWinds Serv-U software using publicly available proof-of-concept (PoC) code. Threat actors are actively exploiting a recently discovered vulnerability, tracked as CVE-2024-28995,…
+Content: Threat actors are actively exploiting SolarWinds Serv-U bug CVE-2024-28995
+ | US government sanctions twelve Kaspersky Lab executives
+ | Experts found a bug in the Linux version of RansomHub ransom… [+78469 chars]

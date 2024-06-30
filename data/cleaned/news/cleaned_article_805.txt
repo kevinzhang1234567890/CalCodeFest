@@ -1,0 +1,5 @@
+Title: Malware can steal data collected by the Windows Recall tool, experts warn
+Description: Cybersecurity researchers demonstrated how malware could potentially steal data collected by the new Windows Recall tool. The Recall feature of Microsoft Copilot+ is an AI-powered tool designed to help users search for past activities on their PC. The data co…
+Content: Malware can steal data collected by the Windows Recall tool, experts warn
+ | Cisco addressed Webex flaws used to compromise German government meetings
+ | CNN, Paris Hilton, and Sony TikTok accounts… [+74398 chars]

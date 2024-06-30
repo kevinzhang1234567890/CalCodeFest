@@ -1,0 +1,4 @@
+Title: CISA adds GeoSolutionsGroup JAI-EXT, Linux Kernel, and Roundcube Webmail bugs to its Known Exploited Vulnerabilities catalog
+Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds GeoSolutionsGroup JAI-EXT, Linux Kernel, and Roundcube Webmail bugs to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the fo…
+Content: CISA adds GeoSolutionsGroup JAI-EXT, Linux Kernel, and Roundcube Webmail bugs to its Known Exploited Vulnerabilities catalog
+ | New P2Pinfect version delivers miners and ransomware on Redis servers… [+79505 chars]

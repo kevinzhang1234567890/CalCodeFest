@@ -1,0 +1,5 @@
+Title: Arm zero-day in Mali GPU Drivers actively exploited in the wild
+Description: Semiconductor and software design company Arm warns of an actively exploited zero-day vulnerability in Mali GPU Kernel Driver. Arm is warning of an actively exploited zero-day vulnerability, tracked as CVE-2024-4610, in Mali GPU Kernel Driver. The vulnerabili…
+Content: Arm zero-day in Mali GPU Drivers actively exploited in the wild
+ | Expert released PoC exploit code for Veeam Backup Enterprise Manager flaw CVE-2024-29849. Patch it now!
+ | Japanese video-sharing … [+75649 chars]

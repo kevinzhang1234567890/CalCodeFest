@@ -1,0 +1,5 @@
+Title: LockBit group wrongly claimed the hack of the Federal Reserve
+Description: The LockBit ransomware group seems to have lied when they announced the hack of the US Federal Reserve. The real victim is the Evolve Bank. The LockBit ransomware group hasn’t hacked the Federal Reserve as it has recently claimed, the real victim is the Evolv…
+Content: LockBit group wrongly claimed the hack of the Federal Reserve
+ | CISA adds GeoSolutionsGroup JAI-EXT, Linux Kernel, and Roundcube Webmail bugs to its Known Exploited Vulnerabilities catalog
+ | New … [+79571 chars]

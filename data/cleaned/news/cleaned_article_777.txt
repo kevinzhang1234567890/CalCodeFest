@@ -1,0 +1,5 @@
+Title: Chinese threat actor exploits old ThinkPHP flaws since October 2023
+Description: Akamai observed a Chinese-speaking group exploiting two flaws, tracked as CVE-2018-20062 and CVE-2019-9082, in ThinkPHP applications. Akamai researchers observed a Chinese threat actor exploiting two old remote code execution vulnerabilities, tracked as CVE-2…
+Content: A new Linux version of TargetCompany ransomware targets VMware ESXi environments
+ | FBI obtained 7,000 LockBit decryption keys, victims should contact the feds to get support
+ | RansomHub operation… [+74644 chars]

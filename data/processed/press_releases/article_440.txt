@@ -1,0 +1,3 @@
+Title: My Thoughts on Python in Excel
+Description: Comments
+Content: On August 22, 2023, Microsoft revealed the preview of Python in Excel. As creator of xlwings and author of the OReilly book Python for Excel, I was obviously curious to give it a try. Since you shoul… [+19914 chars]

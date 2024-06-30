@@ -1,0 +1,5 @@
+Title: RansomHub operation is a rebranded version of the Knight RaaS
+Description: Researchers believe the RansomHub ransomware-as-a-service is a rebranded version of the Knight ransomware operation. Cybersecurity experts who analyzed the recently emerged ransomware operation RansomHub speculate that is is a rebranded version of Knight rans…
+Content: RansomHub operation is a rebranded version of the Knight RaaS
+ | Malware can steal data collected by the Windows Recall tool, experts warn
+ | Cisco addressed Webex flaws used to compromise German g… [+74464 chars]

@@ -1,0 +1,6 @@
+Title: New Caesar Cipher Skimmer targets popular CMS used by e-stores
+Description: A new e-skimmer called Caesar Cipher Skimmer is used to compromise multiple CMS, including WordPress, Magento, and OpenCart. Sucuri researchers discovered a new e-skimmer, called Caesar Cipher Skimmer, that was used in recent weeks to target users of e-stores…
+Content: New Caesar Cipher Skimmer targets popular CMS used by e-stores
+ | Mirai-like botnet is exploiting recently disclosed Zyxel NAS flaw
+ | Wikileaks founder Julian Assange is free
+ | CISA confirmed th… [+79243 chars]

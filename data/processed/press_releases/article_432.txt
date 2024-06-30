@@ -1,0 +1,5 @@
+Title: Check Point released hotfix for actively exploited VPN zero-day
+Description: Check Point released hotfixes for a VPN zero-day vulnerability, tracked as CVE-2024-24919, which is actively exploited in attacks in the wild. Check Point released hotfixes to address a VPN zero-day vulnerability, tracked as CVE-2024-24919, which is actively …
+Content: Check Point released hotfix for actively exploited VPN zero-day
+ | ABN Amro discloses data breach following an attack on a third-party provider
+ | Christie disclosed a data breach after a RansomHub… [+72383 chars]

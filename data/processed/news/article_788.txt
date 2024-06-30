@@ -1,0 +1,5 @@
+Title: Expert released PoC exploit code for Veeam Backup Enterprise Manager flaw CVE-2024-29849. Patch it now!
+Description: A proof-of-concept (PoC) exploit code for a Veeam Backup Enterprise Manager authentication bypass flaw CVE-2024-29849 is publicly available. Researcher Sina Kheirkha analyzed the Veeam Backup Enterprise Manager authentication bypass flaw CVE-2024-29849 and a …
+Content: Expert released PoC exploit code for CVE-2024-29849. Patch it now!
+ | Japanese video-sharing platform Niconico was victim of a cyber attack
+ | UK NHS call for O-type blood donations following ranso… [+75544 chars]

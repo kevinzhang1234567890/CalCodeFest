@@ -1,0 +1,3 @@
+Title: Intel 471 launches 471 Attack Surface Protection to enhance external threat visibility
+Description: Intel 471 launched the company’s 471 Attack Surface Protection solution, an attack surface management (ASM) tool that provides its customers visibility into their external threat landscape and drives a proactive response that neutralizes threats and mitigates…
+Content: Intel 471 launched the companys 471 Attack Surface Protection solution, an attack surface management (ASM) tool that provides its customers visibility into their external threat landscape and drives … [+2271 chars]

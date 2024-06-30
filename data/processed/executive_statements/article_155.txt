@@ -1,0 +1,3 @@
+Title: Pocket Z project hopes to rekindle pocket PC form factor — with a Raspberry Pi Zero 2W inside
+Description: It may not be as powerful as your smartphone, but this UPMC is on the right track
+Content: Today’s mobile computing space is dominated by smartphones, tablets, and laptop computers. One maker remembers the no-standards frontier days of mobile computers, though. Harkening back to the PalmPi… [+2037 chars]

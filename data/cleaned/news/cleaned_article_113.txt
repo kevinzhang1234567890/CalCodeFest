@@ -1,0 +1,3 @@
+Title: AMD bets big on 'pervasive AI' to keep pace with the chip race
+Description: AMD’s aim is to capture a bigger share of the AI chip market from Nvidia.Pervasive AI encompasses not just data centre graphic processing units but applications including servers, networking, edge computing
+Content: Advanced Micro Devices, Inc. (AMD), the US fabless chipmaker, is betting big on artificial intelligence (AI) to not only power the chips used in data centres but also those used in personal computers… [+7830 chars]

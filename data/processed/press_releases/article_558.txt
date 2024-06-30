@@ -1,0 +1,5 @@
+Title: China-linked Velvet Ant uses F5 BIG-IP malware in cyber espionage campaign
+Description: Chinese cyberespionage group Velvet Ant was spotted using custom malware to target F5 BIG-IP appliances to breach target networks. In late 2023, Sygnia researchers responded to an incident suffered by a large organization that they attributed to a China-linke…
+Content: China-linked Velvet Ant uses F5 BIG-IP malware in cyber espionage campaign
+ | LA Countys Department of Public Health (DPH) data breach impacted over 200,000 individuals
+ | Spanish police arrested a… [+77045 chars]

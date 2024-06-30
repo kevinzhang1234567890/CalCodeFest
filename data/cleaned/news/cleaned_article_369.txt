@@ -1,0 +1,4 @@
+Title: Mandiant finds 165 Snowflake customers were targeted in hacking campaign
+Description: Mandiant today revealed that at least 165 organizations were targeted by a recent hacking campaign against Snowflake Inc. customers. The Google LLC unit, which provides breach response services, is working with the cloud data platform provider to notify affec…
+Content: Mandiant today revealed that at least 165 organizations were targeted by a recent hacking campaign against Snowflake Inc. customers.
+The Google LLC unit, which provides breach response services, is … [+3833 chars]

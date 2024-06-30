@@ -1,0 +1,5 @@
+Title: BBC disclosed a data breach impacting its Pension Scheme members
+Description: The BBC disclosed a data breach that exposed the personal information of BBC Pension Scheme members. The BBC disclosed a data breach that occurred on May 21. Threat actors gained access to files on a cloud-based service belonging to the British public service…
+Content: BBC disclosed a data breach impacting its Pension Scheme members
+ | CISA adds Check Point Quantum Security Gateways and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog
+ | Experts … [+72879 chars]

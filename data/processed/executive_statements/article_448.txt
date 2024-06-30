@@ -1,0 +1,4 @@
+Title: A contrast sensitivity model of the human visual system in modern conditions for presenting video content
+Description: Digital video incurs many distortions during processing, compression, storage, and transmission, which can reduce perceived video quality. Developing adaptive video transmission methods that provide increased bandwidth and reduced storage space while preservi…
+Content: Abstract
+Digital video incurs many distortions during processing, compression, storage, and transmission, which can reduce perceived video quality. Developing adaptive video transmission methods tha… [+47987 chars]

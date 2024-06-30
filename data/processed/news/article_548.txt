@@ -1,0 +1,3 @@
+Title: Implementing a compliance and reporting strategy for NIST SP 800-53 Rev. 5
+Description: Amazon Web Services (AWS) provides tools that simplify automation and monitoring for compliance with security standards, such as the NIST SP 800-53 Rev. 5 Operational Best Practices. Organizations can set preventative and proactive controls to help ensure tha…
+Content: Amazon Web Services (AWS) provides tools that simplify automation and monitoring for compliance with security standards, such as the NIST SP 800-53 Rev. 5 Operational Best Practices. Organizations ca… [+35060 chars]

@@ -1,0 +1,3 @@
+Title: How to make an Apple TV style media centre with a Raspberry Pi 5
+Description: If you would like to create an open source Raspberry Pi powered alternative to the Apple TV you might be interested in a new project published by Jeff Geerling. That show how you can use a Pi 5 mini PC and open-source software, to build a cost-effective and v…
+Content: If you would like to create an open source Raspberry Pi powered alternative to the Apple TV you might be interested in a new project published by Jeff Geerling. That show how you can use a Pi 5 mini … [+6953 chars]

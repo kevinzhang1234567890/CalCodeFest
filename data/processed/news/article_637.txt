@@ -1,0 +1,3 @@
+Title: How to optimize costs and minimize technical debt in a multi-cloud environment
+Description: Ensuring that your organization is getting the best value from its multi-cloud infrastructure has never been more critical - here's a how-to guide from Microsoft on how to minimize your tech debt.
+Content: Cloud infrastructure is one of the necessary foundations for organizations that want to keep their competitive edge and agility in the era of AI. This will be true both in the short term and for year… [+6614 chars]

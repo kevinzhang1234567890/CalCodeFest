@@ -1,0 +1,4 @@
+Title: 6 insights from Microsoft’s 2024 state of multicloud risk report to evolve your security strategy
+Description: Discover the top multicloud security risks across DevOps, runtime environments, identity and access, and data in this new report from Microsoft.
+The post 6 insights from Microsoft’s 2024 state of multicloud risk report to evolve your security strategy appeare…
+Content: Multicloud computing has become the foundation for digital businesses, with 86% of organizations having already adopted a multicloud approach.1 However, for all its benefits around increased agility,… [+10903 chars]

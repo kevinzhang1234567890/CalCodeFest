@@ -1,0 +1,3 @@
+Title: It's Time to Up-Level Your EDR Solution
+Description: You may have EDR, but did you know you can add threat detection and response to improve a SecOps team’s efficiency and outcomes - read more.
+Content: Not all threats originate at the endpoint. According to IBM Cost of a Data Breach Report 2023, phishing and stolen or compromised credentials were the two most common initial attack vectors. XDR shou… [+7097 chars]

@@ -1,0 +1,5 @@
+Title: CISA adds Arm Mali GPU Kernel Driver, PHP bugs to its Known Exploited Vulnerabilities catalog
+Description: U.S. Cybersecurity and Infrastructure Security Agency (CISA) adds Mali GPU Kernel Driver, PHP bugs to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Know…
+Content: CISA adds Arm Mali GPU Kernel Driver, PHP bugs to its Known Exploited Vulnerabilities catalog
+ | 
+Ukraine Police arrested a hacker who developed a crypter used by Conti and LockBit ransomware opera… [+76091 chars]

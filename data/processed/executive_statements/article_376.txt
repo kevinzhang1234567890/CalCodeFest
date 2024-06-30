@@ -1,0 +1,3 @@
+Title: AI summarization in Dynamics 365 synthesizes and simplifies complex data
+Description: As enterprises are asked to manage increasingly complex data environments, the generative AI summarization capabilities of Copilot in Microsoft Dynamics 365 streamline operations by synthesizing complex data from multiple sources across Supply Chain Managemen…
+Content: As enterprises are asked to manage increasingly complex business processes and data environments, context-aware AI summarization by Copilot in Microsoft Dynamics 365 streamlines operations by synthes… [+10164 chars]

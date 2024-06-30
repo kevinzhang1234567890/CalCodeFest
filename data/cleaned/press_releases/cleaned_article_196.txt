@@ -1,0 +1,6 @@
+Title: New MOVEit Transfer critical bug is actively exploited
+Description: Experts warn of active exploitation of a critical authentication bypass vulnerability in MOVEit Transfer file transfer software. Progress Software addressed two critical authentication bypass vulnerabilities, tracked as CVE-2024-5805 and CVE-2024-5806, affect…
+Content: New MOVEit Transfer critical bug is actively exploited
+ | New Caesar Cipher Skimmer targets popular CMS used by e-stores
+ | Mirai-like botnet is exploiting recently disclosed Zyxel NAS flaw
+ | Wik… [+79302 chars]

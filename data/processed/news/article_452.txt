@@ -1,0 +1,5 @@
+Title: JetBrains fixed IntelliJ IDE flaw exposing GitHub access tokens
+Description: JetBrains warned to fix a critical vulnerability in IntelliJ integrated development environment (IDE) apps that exposes GitHub access tokens. JetBrains warned customers to address a critical vulnerability, tracked as CVE-2024-37051, that impacts users of its …
+Content: JetBrains fixed IntelliJ IDE flaw exposing GitHub access tokens
+ | Microsoft Patch Tuesday security updates for June 2024 fixed only one critical issue
+ | Cylance confirms the legitimacy of data of… [+75883 chars]

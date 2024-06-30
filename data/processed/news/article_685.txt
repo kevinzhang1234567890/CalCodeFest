@@ -1,0 +1,5 @@
+Title: Microsoft Patch Tuesday security updates for June 2024 fixed only one critical issue
+Description: Microsoft Patch Tuesday security updates for June 2024 addressed 49 vulnerabilities, only one of them is a publicly disclosed zero-day flaw. Microsoft Patch Tuesday security updates for June 2024 addressed 49 vulnerabilities in Windows and Windows Components;…
+Content: Microsoft Patch Tuesday security updates for June 2024 fixed only one critical issue
+ | Cylance confirms the legitimacy of data offered for sale in the dark web
+ | Arm zero-day in Mali GPU Drivers … [+75815 chars]

@@ -1,0 +1,6 @@
+Title: New Rust infostealer Fickle Stealer spreads through various attack methods
+Description: New Rust-based Fickle Malware Uses PowerShell for UAC Bypass and Data Exfiltration A new Rust malware called Fickle Stealer spreads through various attack methods and steals sensitive information. Fortinet FortiGuard Labs researchers detected a new Rust-based…
+Content: New Rust infostealer Fickle Stealer spreads through various attack methods
+ | An unpatched bug allows anyone to impersonate Microsoft corporate email accounts
+ | 
+Smishing Triad Is Targeting Pakis… [+77856 chars]

@@ -1,0 +1,3 @@
+Title: Oracle Linux's UEK-Next Enables Developers to Explore and Validate the Latest Linux Development
+Description: Oracle Linux has recently launched UEK-next, an offering that combines upstream Linux kernels with Oracle Linux patches. This allows users to preview and test the latest Linux features and hardware support before they are officially released in Oracle Linux. …
+Content: Oracle Linux has recently launched UEK-next, an offering that combines upstream Linux kernels with Oracle Linux patches. This allows users to preview and test the latest Linux features and hardware s… [+3642 chars]

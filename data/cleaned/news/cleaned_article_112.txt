@@ -1,0 +1,5 @@
+Title: Red Hat Security Advisory 2024-3421-03
+Description: Red Hat Security Advisory 2024-3421-03 - An update for kernel is now available for Red Hat Enterprise Linux 9.0 Extended Update Support. Issues addressed include a use-after-free vulnerability.
+Content: The following advisory data is extracted from:
+https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_3421.json
+Red Hat officially shut down their mailing list notifications Octo… [+2613 chars]

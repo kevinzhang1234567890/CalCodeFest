@@ -1,0 +1,5 @@
+Title: Securing Non-Human Identities In The Age Of SaaS
+Description: These third-party SaaS integrations, and the NHIs that power them, create several new security challenges for organizations.
+Content: Yoni Shohet is the Co-Founder &amp; CEO at Valence Security.
+getty
+Todays business thrives on automation and seamless integration. Organizations leverage a vast ecosystem of SaaS applications and o… [+6735 chars]

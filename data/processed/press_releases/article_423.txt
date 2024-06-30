@@ -1,0 +1,4 @@
+Title: News from WWDC24: WebKit in Safari 18 beta
+Description: The last year has been a great one for WebKit.
+Content: Contents
+The last year has been a great one for WebKit. After unveiling Safari 17 beta at WWDC23, weve shipped six releases of Safari 17.x with a total of 200 new web technologies. And weve been har… [+48592 chars]

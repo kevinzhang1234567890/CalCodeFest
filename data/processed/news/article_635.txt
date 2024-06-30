@@ -1,0 +1,4 @@
+Title: What's new with the setup experience on Windows 11 version 24H2
+Description: When installing Windows 11 (version 24H2) from a USB bootable media, you will find an updated interface that looks similar to the Media Creation Tool. Here's a walkthrough of the changes.
+Content: Alongside the new features and changes for the newest version of Windows 11 (version 24H2), Microsoft is also introducing a new "Windows 11 Setup" experience. 
+The "Windows 11 Setup" is the wizard t… [+3671 chars]

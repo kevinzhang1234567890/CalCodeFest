@@ -1,0 +1,5 @@
+Title: Is Banking Going Open Source?
+Description: Linux could be poised to revolutionize a standardized operating system across banking. Are banks ready to adapt to this technology shift?
+Content: More often than not, banks' operating environments comprise layers upon layers of different ... [+] operating systems. But standardization could be coming soon.
+getty
+Most people today take the int… [+5722 chars]

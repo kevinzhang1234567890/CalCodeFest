@@ -1,0 +1,3 @@
+Title: SAP customers warned on hidden risks in the unofficial route to the cloud
+Description: But RISE with SAP can also be too rigid for some customers, Gartner says SAP customers looking for infrastructure support for ERP software from community cloud, cloud-like, or former co-location providers should do so with care, as they could take a hit on ri…
+Content: SAP customers looking for infrastructure support for ERP software from community cloud, cloud-like, or former co-location providers should do so with care, as they could take a hit on risks and TCO i… [+4195 chars]

@@ -1,0 +1,5 @@
+Title: LilacSquid APT targeted organizations in the U.S., Europe, and Asia since at least 2021
+Description: A previously undocumented APT group tracked as LilacSquid targeted organizations in the U.S., Europe, and Asia since at least 2021. Cisco Talos researchers reported that a previously undocumented APT group, tracked as LilacSquid, conducted a data theft campai…
+Content: LilacSquid APT targeted organizations in the U.S., Europe, and Asia since at least 2021
+ | BBC disclosed a data breach impacting its Pension Scheme members
+ | CISA adds Check Point Quantum Security… [+72971 chars]

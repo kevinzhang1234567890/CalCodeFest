@@ -1,0 +1,6 @@
+Title: Cisco addressed Webex flaws used to compromise German government meetings
+Description: Cisco addressed vulnerabilities that were exploited to compromise the Webex meetings of the German government. In early May, German media outlet Zeit Online revealed that threat actors exploited vulnerabilities in the German government’s implementation of the…
+Content: Cisco addressed Webex flaws used to compromise German government meetings
+ | CNN, Paris Hilton, and Sony TikTok accounts hacked via DMs
+ | Zyxel addressed three RCEs in end-of-life NAS devices
+ | … [+74320 chars]

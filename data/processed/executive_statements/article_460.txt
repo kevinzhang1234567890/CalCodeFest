@@ -1,0 +1,7 @@
+Title: MicroMac, a Macintosh for Under £5
+Description: Article URL: https://axio.ms/projects/2024/06/16/MicroMac.html
+Comments URL: https://news.ycombinator.com/item?id=40699684
+Points: 35
+# Comments: 1
+Content: A microcontroller Macintosh
+This all started from a conversation about the RP2040 MCU, and building a simple desktop/GUI for it. Id made a comment along the lines of or, just run some old OS, and it… [+24839 chars]

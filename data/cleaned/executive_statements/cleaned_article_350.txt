@@ -1,0 +1,3 @@
+Title: Announcing ARM Support in Percona Operator for MongoDB
+Description: Percona is thrilled to announce the release of ARM support in Percona Operator for MongoDB 1.16.0. This new feature addresses one of our community’s top requests and opens up exciting new possibilities for our users.What is ARM, and why is it important?ARM is…
+Content: Percona is thrilled to announce the release of ARM support in Percona Operator for MongoDB 1.16.0. This new feature addresses one of our community’s top requests and opens up exciting new possibiliti… [+3576 chars]

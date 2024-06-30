@@ -1,0 +1,4 @@
+Title: SUSE acquires Kubernetes observability startup StackState
+Description: SUSE SA has acquired StackState BV, a venture-backed startup with a platform for fixing malfunctions in Kubernetes environments. The Linux distributor announced the deal today at its annual SUSECON conference. During the event, executives also previewed an up…
+Content: SUSE SA has acquired StackState BV, a venture-backed startup with a platform for fixing malfunctions in Kubernetes environments.
+The Linux distributor announced the deal today at its annual SUSECON … [+4124 chars]

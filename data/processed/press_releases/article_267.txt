@@ -1,0 +1,3 @@
+Title: Cofense warns of rising remote-access trojan infections as malware becomes more sophisticated
+Description: A new report released today by phishing detection and response solutions company Cofense Inc. is warning that a remote access trojan first detected in 2020 is currently running wild and being increasingly used in phishing malware campaigns. The RAT in questio…
+Content: A new report released today by phishing detection and response solutions company Cofense Inc. is warning that a remote access trojan first detected in 2020 is currently running wild and being increas… [+3132 chars]

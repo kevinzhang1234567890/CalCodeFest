@@ -1,0 +1,7 @@
+Title: Giving our Azure marketplace images a makeover
+Description: We previously announced the addition of new, optimized Azure VM image offers to help you create and test your applications faster and more easily on Azure VMs and the Microsoft Dev Box service. As we continue to evolve and optimize our offers,
+The post Giving…
+Content: Ruben Rios
+June 5th, 2024
+0
+We previously announced the addition of new, optimized Azure VM image offers to help you create and test your applications faster and more easily on Azure VMs and the M… [+3869 chars]

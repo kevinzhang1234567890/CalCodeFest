@@ -1,0 +1,3 @@
+Title: What is a Zero Day Threat?
+Description: A zero day threat refers to a security vulnerability in software or hardware that is unknown to the party responsible for patching or mitigating the vulnerability—often the software vendor. This term is derived from the fact that there are zero days between t…
+Content: A zero day threat refers to a security vulnerability in software or hardware that is unknown to the party responsible for patching or mitigating the vulnerabilityoften the software vendor. This term … [+4135 chars]

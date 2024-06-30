@@ -1,0 +1,5 @@
+Title: UEFICANHAZBUFFEROVERFLOW flaw in Phoenix SecureCore UEFI firmware potentially impacts hundreds of PC and server models
+Description: A serious vulnerability (CVE-2024-0762) in the Phoenix SecureCore UEFI firmware potentially impacts hundreds of PC and server models. Firmware security firm Eclypsium discovered a vulnerability, tracked as CVE-2024-0762 (CVSS of 7.5), in the Phoenix SecureCor…
+Content: UEFICANHAZBUFFEROVERFLOW flaw in Phoenix SecureCore UEFI firmware potentially impacts hundreds of PC and server models
+ | Russia-linked APT Nobelium targets French diplomatic entities
+ | US bans sa… [+78261 chars]

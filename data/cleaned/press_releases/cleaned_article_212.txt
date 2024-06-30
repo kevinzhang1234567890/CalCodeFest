@@ -1,0 +1,6 @@
+Title: An unpatched bug allows anyone to impersonate Microsoft corporate email accounts
+Description: A researcher discovered a flaw that allows attackers to impersonate Microsoft corporate email accounts and launch phishing attacks. The security researcher Vsevolod Kokorin (@Slonser) discovered a bug that allows anyone to impersonate Microsoft corporate emai…
+Content: An unpatched bug allows anyone to impersonate Microsoft corporate email accounts
+ | 
+Smishing Triad Is Targeting Pakistan To Defraud Banking Customers At Scale
+ | Alleged researchers stole $3 mill… [+77777 chars]

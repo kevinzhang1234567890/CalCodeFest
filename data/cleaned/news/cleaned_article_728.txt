@@ -1,0 +1,4 @@
+Title: Application of an ensemble CatBoost model over complex dataset for vehicle classification
+Description: The classification of vehicles presents notable challenges within the domain of image processing. Traditional models suffer from inefficiency, prolonged training times for datasets, intricate feature extraction, and variable assignment complexities for classi…
+Content: Abstract
+The classification of vehicles presents notable challenges within the domain of image processing. Traditional models suffer from inefficiency, prolonged training times for datasets, intrica… [+59062 chars]

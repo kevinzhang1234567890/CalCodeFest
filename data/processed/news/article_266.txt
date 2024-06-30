@@ -1,0 +1,5 @@
+Title: CISA adds Check Point Quantum Security Gateways and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog
+Description: CISA adds Check Point Quantum Security Gateways and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added the following vulnerabilities to its Known Exploited Vulnerabilities …
+Content: CISA adds Check Point Quantum Security Gateways and Linux Kernel flaws to its Known Exploited Vulnerabilities catalog
+ | Experts found a macOS version of the sophisticated LightSpy spyware
+ | Opera… [+72810 chars]

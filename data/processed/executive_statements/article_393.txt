@@ -1,0 +1,3 @@
+Title: Tintri by DDN Showcases Versatile VMstore Platform for Virtualization, Databases, Containers and AI at IT Press Tour
+Description: During the 56th edition of the IT Press Tour in California, VMblog had the opportunity to meet with Brock Mowry, CTO and VP of Products at Tintri ,... Read more at VMblog.com.
+Content: During the 56th edition of the IT Press Tour in California, VMblog had the opportunity to meet with Brock Mowry, CTO and VP of Products at Tintri, which is part of DDN. Mowry provided an insightful o… [+4677 chars]

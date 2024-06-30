@@ -1,0 +1,3 @@
+Title: Azure Maps: Reimagining location services with cloud and AI innovation
+Description: Today, we’re announcing the unification of our enterprise maps offerings under Microsoft Azure Maps. This enables our customers to accelerate innovation by leveraging other Microsoft Azure cloud services while retaining many familiar features from Bing Maps f…
+Content: Im thrilled to share news about the evolution of our enterprise mapping software development kit (SDK) and API offerings. Today, were announcing the unification of our enterprise maps offerings under… [+5756 chars]

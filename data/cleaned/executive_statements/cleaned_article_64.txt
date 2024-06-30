@@ -1,0 +1,4 @@
+Title: MIT CSAIL Director Daniela Rus Presents New Self-Driving Models
+Description: Rus and her team are working on some trail-blazing approaches to autonomous vehicle deisgn
+Content: When you read this, you'll never think about self-driving vehicles the same way again!
+I want to talk about some conversations Ive been having with Daniela Rus, the director of our own CSAIL lab at … [+4123 chars]

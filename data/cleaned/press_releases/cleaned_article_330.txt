@@ -1,0 +1,7 @@
+Title: Large Language Models (LLMs) in R with tidychatmodels
+Description: Hey guys, welcome back to my R-tips newsletter. Lately it’s felt like Python, which has dozens of tools for Large Language Models (LLMs), is moving faster into LLMs than the R community. Thankfully, I stumbled upon a new R package that integrates Large...
+
+
+C…
+Content: [This article was first published on business-science.io, and kindly contributed to R-bloggers]. (You can report issue about the content on this page here)
+Want to share your content on R-bloggers? … [+6461 chars]

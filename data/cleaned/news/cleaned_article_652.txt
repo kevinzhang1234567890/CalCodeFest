@@ -1,0 +1,4 @@
+Title: How to boost your incident response readiness
+Description: Discover key steps to bolster incident response readiness, from disaster recovery plans to secure deployments, guided by insights from the Microsoft Incident Response team.
+The post How to boost your incident response readiness appeared first on Microsoft Sec…
+Content: Cyberthreats are evolving with alarming sophistication, making it crucial for organizations to react swiftly to incidents and prepare for potential threats. Preparing your organizations incident resp… [+11773 chars]

@@ -1,0 +1,3 @@
+Title: The causal relationship between autoimmune diseases and age-related macular degeneration: A two-sample mendelian randomization study
+Description: Objective The aim of this study is to investigate the potential causal relationship between autoimmune diseases, including systemic lupus erythematosus, rheumatoid arthritis, inflammatory bowel disease, multiple sclerosis, and Type 1 diabetes, and age-related…
+Content: Citation: Li L, Zhang M, Gu M, Li J, Li Z, Zhang R, et al. (2024) The causal relationship between autoimmune diseases and age-related macular degeneration: A two-sample mendelian randomization study.… [+23505 chars]

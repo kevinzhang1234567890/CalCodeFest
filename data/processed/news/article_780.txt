@@ -1,0 +1,5 @@
+Title: Ukraine Police arrested a hacker who developed a crypter used by Conti and LockBit ransomware operation
+Description: The Ukraine cyber police arrested a Russian man for having developed the crypter component employed in Conti and LockBit ransomware operations. The Ukraine cyber police arrested a Russian man (28) for his role in developing a crypter used in Conti and LockBit…
+Content: CISA adds Arm Mali GPU Kernel Driver, PHP bugs to its Known Exploited Vulnerabilities catalog
+ | 
+Ukraine Police arrested a hacker who developed a crypter used by Conti and LockBit ransomware opera… [+76091 chars]

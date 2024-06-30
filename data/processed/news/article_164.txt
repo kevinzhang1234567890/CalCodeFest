@@ -1,0 +1,6 @@
+Title: ExCobalt Cybercrime group targets Russian organizations in multiple sectors
+Description: The cybercrime group ExCobalt targeted Russian organizations in multiple sectors with a previously unknown backdoor known as GoRed. Positive Technologies researchers reported that a cybercrime gang called ExCobalt targeted Russian organizations in multiple se…
+Content: ExCobalt Cybercrime group targets Russian organizations in multiple sectors
+ | Threat actor attempts to sell 30 million customer records allegedly stolen from TEG
+ | 
+Security Affairs newsletter R… [+78725 chars]

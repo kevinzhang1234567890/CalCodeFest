@@ -1,0 +1,3 @@
+Title: Cisco Builds on the CNAPP Movement to Secure and Protect the Cloud Native Application Estate
+Description: Enterprise Strategy Group Report Identifies Crucial Requirements for Scalable Security, Multicloud Visibility, and True “Shift Left” DevSecOps
+Content: For increased agility, scalability, and pace of innovation, modern businesses are building and adopting   cloud native applications and practices. However, the highly distributed, microservice-based … [+7494 chars]

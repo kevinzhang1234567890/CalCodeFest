@@ -1,0 +1,3 @@
+Title: Federated XGBoost Made Practical and Productive with NVIDIA FLARE
+Description: XGBoost is a highly effective and scalable machine learning algorithm widely employed for regression, classification, and ranking tasks. Building on the principles of gradient boosting…
+Content: XGBoost is a highly effective and scalable machine learning algorithm widely employed for regression, classification, and ranking tasks. Building on the principles of gradient boosting, it combines t… [+6088 chars]

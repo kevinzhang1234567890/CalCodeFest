@@ -1,0 +1,5 @@
+Title: SolarWinds fixed multiple flaws in Serv-U and SolarWinds Platform
+Description: SolarWinds addressed multiple vulnerabilities in Serv-U and the SolarWinds Platform, including a bug reported by a pentester working with NATO. SolarWinds announced security patches to address multiple high-severity vulnerabilities in Serv-U and the SolarWind…
+Content: SolarWinds fixed multiple flaws in Serv-U and SolarWinds Platform
+ | Pandabuy was extorted twice by the same threat actor
+ | UAC-0020 threat actor used the SPECTR Malware to target Ukraine's defens… [+74856 chars]

@@ -1,0 +1,4 @@
+Title: How are attackers trying to bypass MFA?
+Description: Exploring trends on how attackers are trying to manipulate and bypass MFA, as well as when/how attackers will try their 'push-spray' MFA attacks
+Content: In the latest Cisco Talos Incident Response Quarterly Trends report,
+ instances related to multi-factor authentication (MFA) were involved in nearly half of all security incidents that our team resp… [+9719 chars]

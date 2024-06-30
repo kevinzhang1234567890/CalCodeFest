@@ -1,0 +1,5 @@
+Title: CISA adds Oracle WebLogic Server flaw to its Known Exploited Vulnerabilities catalog
+Description: CISA adds Oracle WebLogic Server OS command injection vulnerability to its Known Exploited Vulnerabilities catalog. The U.S. Cybersecurity and Infrastructure Security Agency (CISA) added an Oracle WebLogic Server vulnerability to its Known Exploited Vulnerabi…
+Content: CISA adds Oracle WebLogic Server flaw to its Known Exploited Vulnerabilities catalog
+ | Spanish police shut down illegal TV streaming network
+ | APT28 targets key networks in Europe with HeadLace m… [+73687 chars]

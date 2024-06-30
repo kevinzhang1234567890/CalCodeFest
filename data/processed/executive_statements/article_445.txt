@@ -1,0 +1,3 @@
+Title: Security Challenges of Intent-Based Networking
+Description: Intent-based networking allows operators to describe the high-level intent of what they want a network to do.
+Content: Computer systems have evolved over decades to enable more flexible programmability. Unsurprisingly, such programmability has converged more closely to how humans think and speak. This is perhaps best… [+44037 chars]

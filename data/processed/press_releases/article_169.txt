@@ -1,0 +1,5 @@
+Title: FlyingYeti targets Ukraine using WinRAR exploit to deliver COOKBOX Malware
+Description: Russia-linked threat actor FlyingYeti is targeting Ukraine with a phishing campaign to deliver the PowerShell malware COOKBOX. Cloudflare researchers discovered phishing campaign conducted by a Russia-linked threat actor FlyingYeti (aka UAC-0149) targeting Uk…
+Content: FlyingYeti targets Ukraine using WinRAR exploit to deliver COOKBOX Malware
+ | Ticketmaster confirms data breach impacting 560 million customers
+ | Critical Apache Log4j2 flaw still threatens global… [+73407 chars]

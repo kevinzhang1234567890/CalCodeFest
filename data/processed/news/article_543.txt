@@ -1,0 +1,3 @@
+Title: Stream multi-tenant data with Amazon MSK
+Description: AWS helps SaaS vendors by providing the building blocks needed to implement a streaming application with Amazon Kinesis Data Streams and Amazon Managed Streaming for Apache Kafka (Amazon MSK), and real-time processing applications with Amazon Managed Service …
+Content: Real-time data streaming has become prominent in todays world of instantaneous digital experiences. Modern software as a service (SaaS) applications across all industries rely more and more on contin… [+15057 chars]

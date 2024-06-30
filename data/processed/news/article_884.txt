@@ -1,0 +1,5 @@
+Title: UAC-0020 threat actor used the SPECTR Malware to target Ukraine’s defense forces
+Description: Ukraine CERT-UA warned of cyber attacks targeting defense forces with SPECTR malware as part of a cyber espionage campaign dubbed SickSync. The Computer Emergency Response Team of Ukraine (CERT-UA) warned of cyber espionage campaign targeting defense forces i…
+Content: UAC-0020 threat actor used the SPECTR Malware to target Ukraine's defense forces
+ | A new Linux version of TargetCompany ransomware targets VMware ESXi environments
+ | FBI obtained 7,000 LockBit de… [+74729 chars]

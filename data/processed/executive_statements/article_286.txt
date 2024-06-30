@@ -1,0 +1,3 @@
+Title: Build generative AI applications on Amazon Bedrock — the secure, compliant, and responsible foundation
+Description: Generative AI has revolutionized industries by creating content, from text and images to audio and code. Although it can unlock numerous possibilities, integrating generative AI into applications demands meticulous planning. Amazon Bedrock is a fully managed …
+Content: Generative AI has revolutionized industries by creating content, from text and images to audio and code. Although it can unlock numerous possibilities, integrating generative AI into applications dem… [+14620 chars]

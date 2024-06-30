@@ -1,0 +1,8 @@
+Title: A Buffer Overflow in the XNU Kernel
+Description: XNU kernel buffer overflow, introduced in macOS 14.0 and fixed in macOS 14.5.
+Content: &lt; HomeLight ModeCVE-2024-27815
+A Buffer Overflow in the XNU Kernel
+What if I'm not like the others?
+A broken mbuf, an overwrite--
+What if my Mac won't recover?
+I'll clean my code with TURPENT… [+9854 chars]

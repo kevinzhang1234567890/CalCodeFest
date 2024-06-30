@@ -1,0 +1,3 @@
+Title: Qualcomm says it's tested 1,200 x86 Windows games on its new X Elite Arm chip but won't say how well they actually run
+Description: We'll have to wait until we get our hands on the Snapdragon X Elite to find out.
+Content: Qualcomm has been bigging up its new Snapdragon X Elite chip yet again, this time at the Computex show. In terms of technical details, little new emerged from Qualcomm's Computex keynote, but the com… [+2661 chars]

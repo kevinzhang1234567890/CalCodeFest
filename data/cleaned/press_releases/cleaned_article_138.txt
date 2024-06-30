@@ -1,0 +1,4 @@
+Title: New Phishing Campaign Uses Stealthy JPGs to Drop Agent Tesla
+Description: Spanish speakers beware! A new campaign using the Agent Tesla RAT targets Spanish-speaking individuals. Learn how to protect…
+Content: Spanish speakers beware! A new campaign using the Agent Tesla RAT targets Spanish-speaking individuals. Learn how to protect yourself from this and other malware attacks.
+FortiGuard Labs has discove… [+3006 chars]

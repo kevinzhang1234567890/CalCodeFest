@@ -1,0 +1,6 @@
+Title: CNN, Paris Hilton, and Sony TikTok accounts hacked via DMs
+Description: A vulnerability in the popular video-sharing platform TikTok allowed threat actors to take over the accounts of celebrities. Threat actors exploited a zero-day vulnerability in the video-sharing platform TikTok to hijack high-profile accounts. The vulnerabili…
+Content: CNN, Paris Hilton, and Sony TikTok accounts hacked via DMs
+ | Zyxel addressed three RCEs in end-of-life NAS devices
+ | A ransomware attack on Synnovis impacted several London hospitals
+ | RansomHu… [+74242 chars]

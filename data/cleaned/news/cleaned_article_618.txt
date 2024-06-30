@@ -1,0 +1,5 @@
+Title: Zyxel addressed three RCEs in end-of-life NAS devices
+Description: Zyxel Networks released an emergency security update to address critical vulnerabilities in end-of-life NAS devices. Zyxel Networks released an emergency security update to address three critical flaws in some of its NAS devices that have reached end-of-life.…
+Content: Zyxel addressed three RCEs in end-of-life NAS devices
+ | A ransomware attack on Synnovis impacted several London hospitals
+ | RansomHub gang claims the hack of the telecommunications giant Frontier… [+74179 chars]

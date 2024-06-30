@@ -1,0 +1,3 @@
+Title: Azure Databricks: Differentiated synergy
+Description: Databricks, a pioneer of the Data Lakehouse an integral component of their Data Intelligence Platform is available as a fully managed first party Data & AI solution on Microsoft Azure as Azure Databricks, making Azure the optimal cloud for running Databricks …
+Content: Companies have long collected data from various sources, leading to the development of data lakes for storing data at scale. However, data lakes lacked critical features such as data quality. The Lak… [+14055 chars]

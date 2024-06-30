@@ -1,0 +1,4 @@
+Title: Online soft measurement method for chemical oxygen demand based on CNN-BiLSTM-Attention algorithm
+Description: The measurement of chemical oxygen demand (COD) is very important in the process of sewage treatment. The value of COD reflects the effectiveness and trend of sewage treatment to a certain extent, but obtaining accurate data requires high cost and labor inten…
+Content: Abstract
+The measurement of chemical oxygen demand (COD) is very important in the process of sewage treatment. The value of COD reflects the effectiveness and trend of sewage treatment to a certain … [+34452 chars]

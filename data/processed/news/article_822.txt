@@ -1,0 +1,3 @@
+Title: Why are threat actors faking data breaches?
+Description: Earlier this year Europcar discovered a hacker selling info on its 50 million customers on the dark web. The European car rental company immediately launched an investigation, only to discover that the data being sold was completely doctored, possibly using g…
+Content: Earlier this year Europcar discovered a hacker selling info on its 50 million customers on the dark web. The European car rental company immediately launched an investigation, only to discover that t… [+4446 chars]

@@ -1,0 +1,5 @@
+Title: Experts found a bug in the Linux version of RansomHub ransomware
+Description: The RansomHub ransomware operators added a Linux encryptor to their arsenal, the version targets VMware ESXi environments. RansomHub ransomware operation relies on a new Linux version of the encrypted to target VMware ESXi environments. Although RansomHub onl…
+Content: Experts found a bug in the Linux version of RansomHub ransomware
+ | UEFICANHAZBUFFEROVERFLOW flaw in Phoenix SecureCore UEFI firmware potentially impacts hundreds of PC and server models
+ | Russia-… [+78330 chars]

@@ -1,0 +1,8 @@
+Title: iTerm 3.5.1 removes automatic OpenAI integration, requires opt-in
+Description: iTerm2 is a replacement for Terminal and the successor to iTerm
+Content: Stable releases update rarely but have no serious bugs.
+This is the recommended build for most users.
+Built on June 11, 2024.
+Older Stable Releases
+This is the recommended build for most users.
+… [+760730 chars]

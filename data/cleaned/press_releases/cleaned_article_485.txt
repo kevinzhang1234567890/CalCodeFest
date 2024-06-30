@@ -1,0 +1,3 @@
+Title: Chinese company unveils sanctions-defying chip design tools that work on China chipmakers' Huawei and Phytium processors
+Description: Xinhuazhang develops EDA tools compatible with Arm-based Huawei's Kunpeng and SPARCv9-based Phytium's FeiTeng processors.
+Content: One of the challenges faced by the Chinese chip design industry is the lack of advanced domestic electronic design automation (EDA) tools. Market leaders Cadence and Synopsys are unable to supply the… [+2419 chars]

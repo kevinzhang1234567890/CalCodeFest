@@ -1,0 +1,3 @@
+Title: The Qualcomm Snapdragon X Architecture Deep Dive: Getting To Know Oryon and Adreno X1
+Description: The curtains are drawn and it’s almost showtime for Qualcomm and its Snapdragon X SoC team. After first detailing the SoC nearly 8 months ago at the company’s most recent Snapdragon Summit, and making numerous performance disclosures in the intervening months…
+Content: The curtains are drawn and it’s almost showtime for Qualcomm and its Snapdragon X SoC team. After first detailing the SoC nearly 8 months ago at the company’s most recent Snapdragon Summit, and makin… [+9539 chars]

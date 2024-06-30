@@ -1,0 +1,5 @@
+Title: SBCL: New in Version 2.4.5
+Description: Comments
+Content: New SBCL versions are usually released at the end of each
+month: check the Sourceforge File List to see the current version. The new features of all SBCL releases are listed below.
+New in version 2… [+581019 chars]

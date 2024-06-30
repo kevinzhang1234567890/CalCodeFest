@@ -1,0 +1,5 @@
+Title: A new Linux version of TargetCompany ransomware targets VMware ESXi environments
+Description: A new Linux variant of the TargetCompany ransomware family targets VMware ESXi environments using a custom shell script. A new variant of the TargetCompany ransomware group uses a custom shell script as a means of payload delivery and execution, this is the f…
+Content: A new Linux version of TargetCompany ransomware targets VMware ESXi environments
+ | FBI obtained 7,000 LockBit decryption keys, victims should contact the feds to get support
+ | RansomHub operation… [+74644 chars]

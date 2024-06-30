@@ -1,0 +1,5 @@
+Title: DeepMind experimenting with 'Shadow Hand' that can withstand a severe beating in the name of AI research
+Description: The Shadow Hand robotic appendage is primarily built for machine learning projects with a focus on dexterity — but its creators want you to know just how tough it is.
+Content: A U.K. robotics startup has claimed its new robot hand designed for artificial intelligence
+ (AI) research is the most dexterous and robust out there. 
+The Shadow Robot Company’s "Shadow Hand," bui… [+3203 chars]

@@ -1,0 +1,5 @@
+Title: GenAI Handbook
+Description: None
+Content: William Brown @willccbb | willcb.comv0.1 (June 5, 2024)
+Introduction
+This document aims to serve as a handbook for learning the key concepts underlying modern artificial intelligence systems. Given… [+69086 chars]

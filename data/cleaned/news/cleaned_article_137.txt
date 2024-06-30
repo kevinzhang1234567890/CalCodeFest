@@ -1,0 +1,5 @@
+Title: Atlassian fixed six high-severity bugs in Confluence Data Center and Server
+Description: Australian software company Atlassian addressed multiple high-severity vulnerabilities in its Confluence, Crucible, and Jira solutions. Atlassian June 2024 Security Bulletin addressed nine high-severity vulnerabilities in Confluence, Crucible, and Jira produc…
+Content: Atlassian fixed six high-severity bugs in Confluence Data Center and Server
+ | China-linked spies target Asian Telcos since at least 2021
+ | New Rust infostealer Fickle Stealer spreads through vari… [+77999 chars]

@@ -1,0 +1,6 @@
+Title: Google Chrome 126 update addresses multiple high-severity flaws
+Description: Google released Chrome 126 update that addresses a high-severity vulnerability demonstrated at the TyphoonPWN 2024 hacking competition. Google has issued a Chrome 126 security update, addressing six vulnerabilities, including a flaw, tracked as CVE-2024-6100 …
+Content: Google Chrome 126 update addresses multiple high-severity flaws
+ | Chip maker giant AMD investigates a data breach
+ | Cryptojacking campaign targets exposed Docker APIs
+ | VMware fixed RCE and pri… [+77549 chars]

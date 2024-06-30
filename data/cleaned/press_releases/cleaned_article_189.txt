@@ -1,0 +1,5 @@
+Title: APT28 targets key networks in Europe with HeadLace malware
+Description: Russia-linked APT28 used the HeadLace malware and credential-harvesting web pages in attacks against networks across Europe. Researchers at Insikt Group observed Russian GRU’s unit APT28 targeting networks across Europe with information-stealer Headlace and c…
+Content: APT28 targets key networks in Europe with HeadLace malware
+ | Experts found information of European politicians on the dark web
+ | FlyingYeti targets Ukraine using WinRAR exploit to deliver COOKBOX… [+73540 chars]

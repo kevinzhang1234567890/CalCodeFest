@@ -1,0 +1,4 @@
+Title: Unlock new potential for your SAP workloads on Azure with these learning paths
+Description: Together, SAP and Microsoft are not just providing tools and services but are also creating ecosystems that foster innovation and transformation, enabling businesses to stay competitive in a rapidly evolving digital landscape.
+The post Unlock new potential fo…
+Content: SAP, a leading provider of enterprise resource planning (ERP) software, is a mission-critical consideration for companies migrating to Azure. Microsoft and SAP have a strong partnership centered on h… [+7872 chars]

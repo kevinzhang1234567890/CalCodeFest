@@ -1,0 +1,3 @@
+Title: Hudson Rock yanks report fingering Snowflake employee creds snafu for mega-leak
+Description: Cloud storage giant lawyers up against infosec house Analysis  Hudson Rock, citing legal pressure from Snowflake, has removed its online report that claimed miscreants broke into the cloud storage and analytics giant's underlying systems and stole data from p…
+Content: Analysis Hudson Rock, citing legal pressure from Snowflake, has removed its online report that claimed miscreants broke into the cloud storage and analytics giant's underlying systems and stole data … [+7955 chars]

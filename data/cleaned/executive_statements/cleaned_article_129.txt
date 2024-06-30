@@ -1,0 +1,4 @@
+Title: An Improved Migratory Birds Optimization Algorithm for Closed- Loop Supply Chain Network Planning in a Fuzzy Environment
+Description: Author summary
+Content: Abstract
+Recycling of used products can provide substantial economic and environmental benefits for supply chain players. However, many factors associated with the design of closed-loop supply chain… [+70797 chars]

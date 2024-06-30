@@ -1,0 +1,6 @@
+Title: Mirai-like botnet is exploiting recently disclosed Zyxel NAS flaw
+Description: Researchers warn that a Mirai-based botnet is exploiting a recently disclosed critical vulnerability in EoL Zyxel NAS devices. Researchers at the Shadowserver Foundation warn that a Mirai-based botnet has started exploiting a recently disclosed vulnerability …
+Content: Mirai-like botnet is exploiting recently disclosed Zyxel NAS flaw
+ | Wikileaks founder Julian Assange is free
+ | CISA confirmed that its CSAT environment was breached in January.
+ | Threat actors … [+79176 chars]

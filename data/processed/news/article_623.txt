@@ -1,0 +1,5 @@
+Title: Pandabuy was extorted twice by the same threat actor
+Description: Chinese shopping platform Pandabuy previously paid a ransom demand to an extortion group that extorted the company again this week. The story of the attack against the Chinese shopping platform Pandabuy demonstrates that paying a ransom to an extortion group …
+Content: Pandabuy was extorted twice by the same threat actor
+ | UAC-0020 threat actor used the SPECTR Malware to target Ukraine's defense forces
+ | A new Linux version of TargetCompany ransomware targets V… [+74786 chars]

@@ -1,0 +1,3 @@
+Title: Arc Compute Harnesses Low-Level GPU Optimizations to Accelerate AI/ML Workloads and Slash Data Center Energy Consumption
+Description: During the 56th edition of the IT Press Tour in Silicon Valley, VMblog had the opportunity to meet with Michael Buchel, CTO of Arc Compute, an innovative startup harnessing low-level GPU optimizations to condense AI/ML tasks and improve data center efficiency
+Content: During the 56th edition of the IT Press Tour in Silicon Valley, VMblog had the opportunity to meet with Michael Buchel, CTO of Arc Compute, an innovative startup harnessing low-level GPU optimization… [+5651 chars]

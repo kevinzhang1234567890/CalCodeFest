@@ -1,0 +1,4 @@
+Title: A real-world test of artificial intelligence infiltration of a university examinations system: A “Turing Test” case study
+Description: The recent rise in artificial intelligence systems, such as ChatGPT, poses a fundamental problem for the educational sector. In universities and schools, many forms of assessment, such as coursework, are completed without invigilation. Therefore, students cou…
+Content: What is artificial intelligence?
+One of the key goals of the field of artificial intelligence (AI) is to create an artificial system that generates intelligent reasoning in natural language based up… [+14895 chars]

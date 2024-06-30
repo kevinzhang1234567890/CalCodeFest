@@ -1,0 +1,3 @@
+Title: AMD's Strix Point chip could boost handheld PC gaming performance by over 30%
+Description: The integrated graphics chip powering AMD's Ryzen AI 300 SoCs might be substantially faster than the one currently used for most handheld gaming PCs if GPD's official specs on its upcoming dual-screen laptop are anything to go by. The new APU lineup, also kno…
+Content: In brief: For some time, curiosity has surrounded AMD's upcoming Strix Point (Ryzen AI 300) APUs. Although the company expects to begin shipping the next-generation mobile processors as soon as next … [+3165 chars]

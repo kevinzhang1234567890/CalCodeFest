@@ -1,0 +1,4 @@
+Title: Strategies for launching streaming content: Assessing movie-country relatedness and its impact on international popularity
+Description: The study proposes a way to measure the relatedness between countries and movies (movie—country relatedness density) and to test whether this relatedness is an important factor in predicting the popularity of a movie in a certain country. The results show tha…
+Content: Abstract
+The study proposes a way to measure the relatedness between countries and movies (moviecountry relatedness density) and to test whether this relatedness is an important factor in predicting… [+42116 chars]

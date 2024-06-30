@@ -1,0 +1,5 @@
+Title: Security Affairs newsletter Round 474 by Pierluigi Paganini – INTERNATIONAL EDITION
+Description: A new round of the weekly SecurityAffairs newsletter arrived! Every week the best security articles from Security Affairs are free for you in your email box. Enjoy a new round of the weekly SecurityAffairs newsletter, including the international press. Ticket…
+Content: Ticketmaster confirms data breach impacting 560 million customers
+ | Critical Apache Log4j2 flaw still threatens global finance
+ | Crooks stole more than $300M worth of Bitcoin from the exchange DM… [+73328 chars]

@@ -1,0 +1,5 @@
+Title: Critical Apache Log4j2 flaw still threatens global finance
+Description: The vulnerability CVE-2021-44832 is Apache Log4j2 library is still a serious problem for multiple industries, expert warns it threatens global Finance. The independent cyber threat intelligence analyst Anis Haboubi warns of a severe logging configuration flaw…
+Content: Critical Apache Log4j2 flaw still threatens global finance
+ | Crooks stole more than $300M worth of Bitcoin from the exchange DMM Bitcoin
+ | ShinyHunters is selling data of 30 million Santander cus… [+73258 chars]

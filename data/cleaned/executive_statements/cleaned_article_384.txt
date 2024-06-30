@@ -1,0 +1,3 @@
+Title: Simplicity versus adaptability: Understanding the balance between habitual and goal-directed behaviors
+Description: Scientists have proposed a new AI method in which systems of habitual and goal-directed behaviors learn to help each other. Through computer simulations that mimicked the exploration of a maze, the method quickly adapts to changing environments and also repro…
+Content: Both living creatures and AI-driven machines need to act quickly and adaptively in response to situations. In psychology and neuroscience, behavior can be categorized into two types -- habitual (fast… [+5224 chars]

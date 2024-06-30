@@ -1,0 +1,4 @@
+Title: Get the best value in your cloud journey with Azure pricing offers and resources
+Description: This blog post will show you how to approach and think about pricing throughout your cloud adoption journey. We will also give an example of how a hypothetical digital media company would approach their Azure pricing needs as they transition from evaluating a…
+Content: A guide for businesses to align their pricing needs with their cloud journey 
+Cloud computing continues to transform the way businesses operate, innovate, and compete. And whether youre just moving … [+9335 chars]

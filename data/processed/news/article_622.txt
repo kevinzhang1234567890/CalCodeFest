@@ -1,0 +1,5 @@
+Title: Sticky Werewolf targets the aviation industry in Russia and Belarus
+Description: Morphisec researchers observed a threat actor, tracked as Sticky Werewolf, targeting entities in Russia and Belarus. Sticky Werewolf is a threat actor that was first spotted in April 2023, initially targeting public organizations in Russia and Belarus. The gr…
+Content: Sticky Werewolf targets the aviation industry in Russia and Belarus
+ | Frontier Communications data breach impacted over 750,000 individuals
+ | PHP addressed critical RCE flaw potentially impacting… [+75254 chars]

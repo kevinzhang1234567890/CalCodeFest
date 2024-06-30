@@ -1,0 +1,4 @@
+Title: Presentation: Reach Next-Level Autonomy with LLM-Based AI Agents
+Description: Tingyi Li discusses the AI Agent, exploring how it extends the frontiers of Generative AI applications and leads to next-level autonomy in combination with enterprise data. By Tingyi Li
+Content: Transcript
+Li: Does any of you like science fiction movies? How many of you have seen the Matrix, Transformer, Transcendence? From all these movies, we have seen some really intelligent AI systems. … [+34875 chars]

@@ -1,0 +1,3 @@
+Title: Migrate a petabyte-scale data warehouse from Actian Vectorwise to Amazon Redshift
+Description: Amazon Redshift is a fast, scalable, and fully managed cloud data warehouse that allows you to process and run your complex SQL analytics workloads on structured and semi-structured data. It also helps you securely access your data in operational databases, d…
+Content: Amazon Redshift is a fast, scalable, and fully managed cloud data warehouse that allows you to process and run your complex SQL analytics workloads on structured and semi-structured data. It also hel… [+19181 chars]

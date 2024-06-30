@@ -1,0 +1,3 @@
+Title: Striking gold in observability: Jeremy Burton on Observe Inc.’s success
+Description: Betting on a startup is always a risky venture, but with Observe Inc., an application observability platform, Jeremy Burton (pictured), the company’s chief executive officer, seems to have hit the jackpot. Observe is built on Snowflake Inc.’s data platform, a…
+Content: Betting on a startup is always a risky venture, but with Observe Inc., an application observability platform, Jeremy Burton (pictured), the companys chief executive officer, seems to have hit the jac… [+4214 chars]

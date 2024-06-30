@@ -1,0 +1,4 @@
+Title: Who are the best passing players in professional soccer? A machine learning approach for classifying passes with different levels of difficulty and discriminating the best passing players
+Description: The present study aimed to assess the use of technical-tactical variables and machine learning (ML) classifiers in the automatic classification of the passing difficulty (DP) level in soccer matches and to illustrate the use of the model with the best perform…
+Content: Abstract
+The present study aimed to assess the use of technical-tactical variables and machine learning (ML) classifiers in the automatic classification of the passing difficulty (DP) level in socce… [+42483 chars]

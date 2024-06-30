@@ -1,0 +1,6 @@
+Title: Google fixed an actively exploited zero-day in the Pixel Firmware
+Description: Google is warning of a security vulnerability impacting its Pixel Firmware that has been actively exploited in the wild as a zero-day. Google warned of an elevation of privilege vulnerability, tracked as CVE-2024-32896, in the Pixel Firmware, which has been e…
+Content: Google fixed an actively exploited zero-day in the Pixel Firmware
+ | Multiple flaws in Fortinet FortiOS fixed
+ | 
+CISA adds Arm Mali GPU Kernel Driver, PHP bugs to its Known Exploited Vulnerabilit… [+76208 chars]

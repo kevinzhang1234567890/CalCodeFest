@@ -1,0 +1,3 @@
+Title: Web browser architecture and the history of window systems
+Description: Alan Kay 's Should web browsers have stuck to being document viewers?  makes important points about the architecture of the infrastructure f...
+Content: Alan Kay's Should web browsers have stuck to being document viewers? makes important points about the architecture of the infrastructure for user interfaces, but also sparked comments and an email ex… [+17657 chars]

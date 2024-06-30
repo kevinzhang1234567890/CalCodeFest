@@ -1,0 +1,8 @@
+Title: Удобный CI/CD доступен каждому
+Description: Привет, Хабр! Недавно я выступал на Moscow Python Conf, где делился нашим опытом создания и использования CI/CD пайплайнов. В данной статье я расскажу об этих пайплайнах, раскрою их особенности и покажу, как они помогают нам быстро доставлять код и поддержива…
+Content: , ! Moscow Python Conf, CI/CD . , , Time To Market. , .
+ Python, python-related . ! , , .
+CI/CD
+ . CI/CD - , , . 4 .
+<ul><li>Continuous Integration - , . , pull-request' . , merge- . .
+</li><li>… [+6764 chars]

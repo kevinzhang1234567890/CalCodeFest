@@ -1,0 +1,3 @@
+Title: Primarius NanoSpice™ Simulator Certified for Samsung Foundry 3nm/4nm Process Technology
+Description: SAN JOSE, Calif., June 26, 2024 (GLOBE NEWSWIRE) -- Primarius Technologies today announced that its NanoSpice™ universal parallel SPICE simulator has been validated and certified for Samsung Foundry's 3/4nm technology. NanoSpice™ helps Samsung Foundry's custo…
+Content: <ul><li>Enables Samsung Foundry customers achieve precision accuracy</li><li>Provides stable convergence for analog IP, large capacitance with large netlists</li></ul>SAN JOSE, Calif., June 26, 2024 … [+3934 chars]

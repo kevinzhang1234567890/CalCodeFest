@@ -1,0 +1,3 @@
+Title: Kali Linux 2024.2 Release (t64, GNOME 46 & Community Packages)
+Description: A little later than usual, but Kali 2024.2 is here! The delay has been due to changes under the hood to make this happen, which is where a lot of focus has been. The community has helped out a huge amount, and this time they’ve not only been adding new packag…
+Content: A little later than usual, but Kali 2024.2 is here! The delay has been due to changes under the hood to make this happen, which is where a lot of focus has been. The community has helped out a huge a… [+11296 chars]

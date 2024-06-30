@@ -1,0 +1,3 @@
+Title: Microsoft ends Project Natick underwater data center experiment despite success
+Description: Project Natick's origins stretch all the way back to 2013. Following a three-month trial in the Pacific, a submersible data center capsule was deployed 120 miles off the coast of Scotland in 2018. It was brought back to the surface in 2020, offering what were…
+Content: In brief: We're still seeing companies testing underwater data centers, but Microsoft has decided to call time on its experiment, Project Natick. It sounds as if placing the 40-foot-long tube filled … [+3363 chars]

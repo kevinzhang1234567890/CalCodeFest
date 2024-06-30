@@ -1,0 +1,5 @@
+Title: PHP addressed critical RCE flaw potentially impacting millions of servers
+Description: A new PHP for Windows remote code execution (RCE) flaw affects version 5.x and earlier versions, potentially impacting millions of servers worldwide. Researchers at cybersecurity firm DEVCORE discovered a critical remote code execution (RCE) vulnerability, tr…
+Content: PHP addressed critical RCE flaw potentially impacting millions of servers
+ | Security Affairs newsletter Round 475 by Pierluigi Paganini INTERNATIONAL EDITION
+ | SolarWinds fixed multiple flaws in … [+75108 chars]

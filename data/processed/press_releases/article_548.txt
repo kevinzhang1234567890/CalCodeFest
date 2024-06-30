@@ -1,0 +1,3 @@
+Title: New banking trojan “CarnavalHeist” targets Brazil with overlay attacks
+Description: Since February 2024, Cisco Talos has been observing an active campaign targeting Brazilian users with a new banking trojan called “CarnavalHeist.” Many of the observed tactics, techniques and procedures (TTPs) are common among other banking trojans coming out…
+Content: <ul><li>Since February 2024, Cisco Talos has been observing an active campaign targeting Brazilian users with a new banking trojan called CarnavalHeist. Many of the observed tactics, techniques and p… [+23213 chars]

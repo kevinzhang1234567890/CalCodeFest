@@ -1,0 +1,4 @@
+Title: Imperva optimizes SQL generation from natural language using Amazon Bedrock
+Description: This is a guest post co-written with Ori Nakar from Imperva. Imperva Cloud WAF protects hundreds of thousands of websites against cyber threats and blocks billions of security events every day. Counters and insights based on security events are calculated dai…
+Content: This is a guest post co-written with Ori Nakar from Imperva.
+Imperva Cloud WAF protects hundreds of thousands of websites against cyber threats and blocks billions of security events every day. Coun… [+10230 chars]

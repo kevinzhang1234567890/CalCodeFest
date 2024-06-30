@@ -1,0 +1,6 @@
+Title: Multiple flaws in Cox modems could have impacted millions of devices
+Description: Researcher discovered several authorization bypass vulnerabilities in Cox modems that potentially impacted millions of devices. The security researcher Sam Curry discovered multiple issues in Cox modems that could have been exploited to modify the settings of…
+Content: Multiple flaws in Cox modems could have impacted millions of devices
+ | 
+CISA adds Oracle WebLogic Server flaw to its Known Exploited Vulnerabilities catalog
+ | Spanish police shut down illegal TV… [+73762 chars]

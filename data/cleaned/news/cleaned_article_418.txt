@@ -1,0 +1,3 @@
+Title: iOS 18 Adds More Control Over Adaptive Audio on AirPods Pro 2
+Description: Apple's second-generation AirPods Pro have an Adaptive Audio feature that includes Adaptive Noise Control, Personalized Volume, and Conversation Awareness, which are all features that adjust sound and Active Noise Cancellation in response to the environment a…
+Content: Apple's second-generation AirPods Pro have an Adaptive Audio feature that includes Adaptive Noise Control, Personalized Volume, and Conversation Awareness, which are all features that adjust sound an… [+1280 chars]

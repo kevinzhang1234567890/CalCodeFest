@@ -1,0 +1,6 @@
+Title: Attribution classification method of APT malware based on multi-feature fusion
+Description: In recent years, with the development of the Internet, the attribution classification of APT malware remains an important issue in society. Existing methods have yet to consider the DLL link library and hidden file address during the execution process, and th…
+Content: Citation: Zhang J, Liu S, Liu Z (2024) Attribution classification method of APT malware based on multi-feature fusion. PLoS ONE 19(6):
+ e0304066.
+https://doi.org/10.1371/journal.pone.0304066
+Edito… [+53636 chars]

@@ -1,0 +1,9 @@
+Title: R vs Power BI
+Description: 1. What is R?
+R is a programming language and an environment for statistical computing and visualization. R is not a general-purpose programming language, like Python or Java, because its focus is on statistical computing. The language is very popul...
+
+
+
+Co…
+Content: [This article was first published on coding-the-past, and kindly contributed to R-bloggers]. (You can report issue about the content on this page here)
+Want to share your content on R-bloggers? clic… [+7019 chars]

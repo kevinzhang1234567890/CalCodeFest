@@ -1,0 +1,3 @@
+Title: Pure Storage adds AI features to improve performance and detect attacks
+Description: Pure Storage Inc. is playing its artificial intelligence hand this week with a clutch of announcements aimed at simplifying AI training and inferencing as well as applying machine learning to help customers better unravel storage conundrums. The new Evergreen…
+Content: Pure Storage Inc. is playing its artificial intelligence hand this week with a clutch of announcements aimed at simplifying AI training and inferencing as well as applying machine learning to help cu… [+5474 chars]

@@ -1,0 +1,3 @@
+Title: Explainer: What Is Machine Learning?
+Description: Machine learning (ML) employs algorithms and statistical models that enable computer systems to find patterns in massive amounts of data, and then uses a model...
+Content: Companies are increasingly data-drivensensing market and environment data, and using analytics and machine learning to recognize complex patterns, detect changes, and make predictions that directly i… [+2133 chars]

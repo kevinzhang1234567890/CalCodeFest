@@ -1,0 +1,3 @@
+Title: IPC in Rust – A Ping Pong Comparison
+Description: Comments
+Content: I wanted to explore different ways of communicating between different processes executing on the same machine, and doing so as fast as possible. We're focussing on high speed inter-process communicat… [+25342 chars]

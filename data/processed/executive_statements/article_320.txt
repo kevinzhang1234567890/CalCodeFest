@@ -1,0 +1,3 @@
+Title: HighPoint Rocket 1608A add-in card review: More drives, more power
+Description: The HighPoint Rocket 1608A is a new, PCIe 5.0 add-in-card that allows you to boost storage performance with up to eight SSDs in tandem. It’s super fast for the right workloads, if you need that kind of performance.
+Content: If one high-end SSD isn’t fast enough for you, then how about eight? The HighPoint Rocket 1608A AIC (add-in card) allows you to assemble up to eight PCIe 5.0 SSDs with sixteen lanes of upstream bandw… [+12171 chars]

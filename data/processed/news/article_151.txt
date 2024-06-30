@@ -1,0 +1,19 @@
+Title: Vulnerability Summary for the Week of June 17, 2024
+Description: High Vulnerabilities
+
+<table>
+
+<tr>
+<th>PrimaryVendor -- Product</th>
+<th>Description</th>
+<th>Published</th>
+<th>CVSS Score</th>
+<th>Source & Patch Info</th>
+</tr>
+
+
+
+<tr>
+<td>3uu--Shariff Wrapper </td>
+<td>The Shariff Wrapper plugin for WordPress is vulne…
+Content: The CISA Vulnerability Bulletin provides a summary of new vulnerabilities that have been recorded by the National Institute of Standards and Technology (NIST) National Vulnerability Database (NVD) in… [+1127 chars]

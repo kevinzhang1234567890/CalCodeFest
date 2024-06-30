@@ -1,0 +1,6 @@
+Title: LockBit claims the hack of the US Federal Reserve
+Description: The Lockbit ransomware group announced that it had breached the US Federal Reserve and exfiltrated 33 TB of sensitive data. The Lockbit ransomware group announced that it had breached the systems of Federal Reserve of the United States and exfiltrated 33 TB o…
+Content: LockBit claims the hack of the US Federal Reserve
+ | 
+Ransomware threat landscape Jan-Apr 2024: insights and challenges
+ | ExCobalt Cybercrime group targets Russian organizations in multiple secto… [+78851 chars]

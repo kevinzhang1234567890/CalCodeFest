@@ -1,0 +1,5 @@
+Title: Red Hat Security Advisory 2024-3939-03
+Description: Red Hat Security Advisory 2024-3939-03 - An update for linux-firmware is now available for Red Hat Enterprise Linux 7.
+Content: The following advisory data is extracted from:
+https://access.redhat.com/security/data/csaf/v2/advisories/2024/rhsa-2024_3939.json
+Red Hat officially shut down their mailing list notifications Octo… [+2446 chars]
