@@ -22,7 +22,7 @@ def get_score():
     try:
         data = request.json
         app.logger.debug(f"Received data: {data}")
-        company_name = str(data.get('Company', ''))
+        company_name = str(data.get('company', ''))
         if not company_name:
             return jsonify({'error': 'Company name is required'}), 400
 
